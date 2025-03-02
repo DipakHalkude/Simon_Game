@@ -37,7 +37,7 @@ Simon Game is a classic memory game where players must repeat a sequence of colo
 You can play the game live at: [Simon Game Live Demo](https://your-demo-link.com)
 
 ## Screenshots
-![Simon Game Screenshot](screenshot.png)
+![Simon Game Screenshot](https://upload.wikimedia.org/wikipedia/commons/c/cd/Simon_Electronic_Game.jpg)
 
 ## Future Enhancements
 - Add difficulty levels
